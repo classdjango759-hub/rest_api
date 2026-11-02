@@ -934,24 +934,3 @@ All three work together. If they pick "Sci-Fi" + "Watched" + type "inter", you s
 
 ---
 # Deploy your final project online✅
-
-<!-- ## Updated Quick Comparison
-
-| # | Project | Type | Core Skills | Difficulty |
-|---|---------|------|-------------|------------|
-| 1 | Poll / Survey API | DRF | Nested serializers, `@action`, Custom permissions | Easy–Medium |
-| 2 | Restaurant Menu & Order API | DRF | Role-based permissions, Nested writable fields, Status workflow | Medium |
-| 3 | Library Management | Django UI | Relationships, Aggregation, Business logic, Admin | Medium |
-| 4 | Event Registration | Django UI | DateTime validation, Annotate, Messages, Capacity logic | Easy–Medium |
-| 5 | Movie Watchlist & Review | Django UI | Two ForeignKeys, `annotate(Avg)`, Filtering, Card layout | Easy–Medium |
-
-## Updated "How to Pick"
-
-| If you want… | Pick this |
-|-------------|-----------|
-| The easiest API project | **#1** — Poll / Survey |
-| The most "real" API project | **#2** — Restaurant Menu & Order |
-| A website with two relationships and ratings | **#5** — Movie Watchlist & Review |
-| The easiest website project | **#4** — Event Registration |
-| A website with real business logic (issue/return) | **#3** — Library Management |
- -->
